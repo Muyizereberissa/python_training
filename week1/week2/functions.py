@@ -14,7 +14,7 @@ def odd_numbers():
             print(i)
 
 
-# odd_numbers()
+#odd_numbers()
 
 
 def user_name(name):
@@ -46,7 +46,7 @@ def next_numbers(num1):
     return next3
 
 
-# print(next_numbers(int(input("enter num: "))))
+print(next_numbers(int(input("enter num: "))))
 
 
 

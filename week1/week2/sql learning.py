@@ -13,4 +13,7 @@ def main():
         register()
 
 
-main()
+#main()
+num = float(input("enter a number: "))
+squares = {x: x**2 for x in range(int(num))}
+print(squares)
